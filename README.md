@@ -7,7 +7,7 @@ I would like to say thanks to Prof. [**Andrew Ng**](www.andrewng.org) and his co
 
 ### Note
 -------------------
-The courses quiz and questions are owned by Coursera. Please refer the solutions only for reference and try to solve questions on your own first.
+The courses questions and content are owned by Coursera and solutions are owned by me. Please refer the solutions only for reference and try to solve questions on your own first.
 
 ### 1. Neural Network and Deep Learning
 * Week 1
