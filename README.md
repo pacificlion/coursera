@@ -1,6 +1,5 @@
-# deep-learning-specialization-coursera
-
---------------------------------------------------------------------------------
+# Deep Learning Specialization on Coursera
+------------------------------------------------------------------------------
 
 I would like to say thanks to Prof. [**Andrew Ng**](www.andrewng.org) and his colleagues for providing this excellent course on deep learning.  
 
