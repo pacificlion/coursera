@@ -5,7 +5,7 @@
 I would like to say thanks to Prof. [**Andrew Ng**](www.andrewng.org) and his colleagues for providing this excellent course on deep learning.  
 
 
-### Reminder
+### Note
 -------------------
 The courses quiz and questions are owned by Coursera. Please refer the solutions only for reference and try to solve questions on your own first.
 
