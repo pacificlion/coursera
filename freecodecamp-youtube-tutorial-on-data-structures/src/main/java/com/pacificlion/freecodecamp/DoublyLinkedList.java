@@ -49,10 +49,9 @@ public class DoublyLinkedList<T> implements Iterable<T>{
      * constructor - done
      * insertFirst - done
      * insertLast - done
-     * clear
+     * clear - done
      * iterator - done
-     * remove with node- private
-     * remove with T obj
+     * remove with T obj - done
      * removeAt - done
      * contains - done
      * indexOf - done
