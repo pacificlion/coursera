@@ -6,10 +6,14 @@ import java.util.LinkedList;
 public class ListStack<T> implements Iterable<T>,Stack<T>{
 
     // doubly linked list so addFirst, addLast both have O(1) complexity
-    private LinkedList<T> list = new LinkedList<>();
+    private LinkedList<T> list ;
 
     public int size(){
         return list.size();
+    }
+
+    public ListStack(){
+        list = new LinkedList<>();
     }
 
         

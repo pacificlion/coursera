@@ -9,9 +9,7 @@ public class LinkedQueue<T> implements Iterable<T>, Queue<T>{
 
     @Override
     public void offer(T elem) {
-        if(this.isEmpty()){
-            throw new RuntimeException("Queue Empty");
-        }
+
         list.addFirst(elem);
     }
 
