@@ -1,2 +1,15 @@
 **/.ipynb_checkpoints/*
 **/__pycache__/*
+
+**/.gradle/
+**/build/
+**/bin/
+.settings/
+*.vscode/
+.project
+.classpath
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+freecodecamp-youtube-tutorial-on-data-structures/.vs/slnx.sqlite
+freecodecamp-youtube-tutorial-on-data-structures/.vs/VSWorkspaceState.json
